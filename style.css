@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0
+  ;
+ 
+}
+canvas{
+  border: 2px solid blue;
+}
+button{
+  position:fixed;
+  left:100px;
+  top: 50px;
+
+}
